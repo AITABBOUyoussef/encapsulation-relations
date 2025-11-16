@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Commande_Produit/Commande_Produit.iml" filepath="$PROJECT_DIR$/Commande_Produit/Commande_Produit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Etudiant_Cours/Etudiant_Cours.iml" filepath="$PROJECT_DIR$/Etudiant_Cours/Etudiant_Cours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instructeur_Cours/Instructeur_Cours.iml" filepath="$PROJECT_DIR$/Instructeur_Cours/Instructeur_Cours.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Passeport_Personne/Passeport_Personne.iml" filepath="$PROJECT_DIR$/Passeport_Personne/Passeport_Personne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/encapsulation-relations.iml" filepath="$PROJECT_DIR$/.idea/encapsulation-relations.iml" />
+    </modules>
+  </component>
+</project>
